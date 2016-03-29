@@ -1,0 +1,10 @@
+Package: com.beancode.class-dump-zz
+Name: class-dump-zz
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Edgar Aroutiounian
+Author: Edgar Aroutiounian
+Section: System
+Tag: role::hacker
